@@ -1,0 +1,1 @@
+Hell this is my second run through of Michael Hartl's tutorial, I'm doing it again ina aneffoet to absorb even more now that I have a basic understanding of rails.
